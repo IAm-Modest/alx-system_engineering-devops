@@ -1,2 +1,2 @@
 #!/bin/bash
-typeh /tmp/iamafile.iamafile
+file /tmp/iamafile
